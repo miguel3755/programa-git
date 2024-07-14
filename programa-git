@@ -1,7 +1,2 @@
-echo "# programa-git" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/miguel3755/programa-git.git
-git push -u origin main
+#crear funcion resta
+nombre ="miguel3755"
